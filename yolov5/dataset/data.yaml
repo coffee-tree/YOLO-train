@@ -1,0 +1,13 @@
+names:
+- board
+- box
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: collection-box
+  url: https://universe.roboflow.com/project-fyk0c/collection-box/dataset/2
+  version: 2
+  workspace: project-fyk0c
+test: ../test/images
+train: dataset/train/images
+val: dataset/valid/images
